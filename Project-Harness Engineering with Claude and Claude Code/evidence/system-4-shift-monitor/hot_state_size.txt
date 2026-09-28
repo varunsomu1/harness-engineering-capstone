@@ -1,0 +1,1 @@
+643 /workspace/Build a Multi-Shift Quality Monitoring System with Claude Orchestration/04-fork-scratchpad/solution/data/hot_state.json
